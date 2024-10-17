@@ -1,7 +1,7 @@
 apiVersion: catalog.jakala.com/v1alpha1
 kind: ExampleProject
 metadata:
-  name: example-resource
+  name: '2'
   namespace: pulumi-kubernetes-operator
 spec:
   replicas: '1'
